@@ -1,0 +1,30 @@
+/* style.css */
+
+body {
+  background: #fafaf;
+}
+
+#name {
+  text-align: center;
+  padding-top: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.profile_image {
+    position: relative;
+    width: 150px;
+    margin: 10px auto 0px;
+}
+
+.w3-card-2 {
+    position: relative;
+    margin: 20px auto 20px;
+}
+
+.w3-circle {
+    width: 100%;
+    max-width: 200px;
+}
